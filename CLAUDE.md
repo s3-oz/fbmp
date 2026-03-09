@@ -6,7 +6,7 @@ Facebook Marketplace listing tool. Capture items on phone, enhance with AI, post
 - Next.js 15 + Tailwind v4 + App Router
 - Neon Postgres via Drizzle ORM
 - Vercel Blob for image storage
-- Deployed on Vercel
+- Deployed on Vercel: https://fbmp.vercel.app
 
 ## Key Paths
 - `src/db/schema.ts` — Drizzle schema (products table)
